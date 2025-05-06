@@ -38,10 +38,4 @@ This technical course covers the core Docker and Kubernetes concepts and guides 
 
 You’ll learn about microservices and their use cases. You’ll then learn about containers and Kubenernetes. You’ll learn how to deploy and manage microservices applications packaged in containers locally. This will provide you the essential foundation that you’ll need before heading to the cloud.
 
----
 
-## Meet your Instructor​
-
-Guy Barrette is a developer/trainer with more then 25 years of experience. He worked for many years as a developer, solutions architect, Microsoft Certified Trainer and now he shares his passion for containers and microservices teaching Docker and Kubernetes. He was awarded Microsoft Most Valuable Professional in the Azure category and passed the following certifications: Kubernetes and Cloud Native Associate, Certified Kubernetes Application Developer (CKAD), Terraform Certified Associate, AWS Cloud Practitioner, Google Cloud Associate Cloud Engineer, Azure Fundamentals, Azure Developer Associate and Azure Architect Design.
-
-https://guybarrette.com @GuyBarrette @guybarrette@techhub.social
